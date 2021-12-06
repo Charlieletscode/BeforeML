@@ -1,2 +1,2 @@
 # BeforeML Visualization
-just keep data.csv, index.js, and sample.html will be fine
+data.csv as our import dummy data, index.js as js controller, and sample.html as visualization importing googlemap api
